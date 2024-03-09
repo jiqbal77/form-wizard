@@ -22,3 +22,6 @@ Condition3:
 
 Condition4: 
 <img width="1014" alt="image" src="https://github.com/jiqbal77/form-wizard/assets/160247922/f44433a0-3d5e-4918-8b9f-bdb6405a3ec3">
+
+UI inspriation from :
+Codepen: https://codepen.io/irvingv8/pen/VbXREK
